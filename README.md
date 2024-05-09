@@ -1,4 +1,4 @@
-![image](https://github.com/Priya-dharshini-Raja/Pharma/assets/148514803/747a45af-a7f0-4c08-a317-ee595d819db4)# Project Responsive Web Design using Bootstrap
+## EXP-10 PROJECT RESPONSIVE WEB DESIGN USING BOOTSTRAP
 ## Date:
 
 ## AIM:
@@ -99,15 +99,8 @@ Publish the website in the LocalHost.
 </html>
 
 ```
-
-
 ## OUTPUT:
 ![image](https://github.com/Priya-dharshini-Raja/Pharma/assets/148514803/16fba052-dd87-4e65-ab79-16b3e78eb928)
-
-## RESULT:
-Ccompleted successfully.
-
-
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
